@@ -1,4 +1,9 @@
+# FizzBuzz
+
+## Problem Statement
 Write a function that takes in a number and prints each number from 1 to the inputted number. However, whenever the number is a multiple of 3 it should print Fizz, whenever it is a multiple of 5 it should print Buzz, and whenever it is a multiple of 3 and 5 it should print FizzBuzz.
+
+## Example
 ```
 Example input: 15
 Example output (printed): 
